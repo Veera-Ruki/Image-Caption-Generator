@@ -1,0 +1,10 @@
+pip
+numpy
+pandas
+pandas_stubs
+Pillow
+requests
+streamlit
+tensorflow
+altair
+protobuf==3.20
